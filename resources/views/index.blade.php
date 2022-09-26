@@ -145,9 +145,7 @@
     });
     document.getElementById('copy_description').addEventListener('click', function () {
         copyTextToClipboard(
-            document.getElementById('task_name').textContent + `
-` + document.getElementById('user_text').textContent + `
-` + document.getElementById('user_text').textContent + `
+            document.getElementById('user_text').textContent + `
 ` + document.getElementById('can_text').textContent + `
 ` + document.getElementById('test_text').textContent + `
 ` + document.getElementById('cant_text').textContent
