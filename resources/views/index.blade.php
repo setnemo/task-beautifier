@@ -11,7 +11,7 @@
                 </div>
             </div>
             <div class="mb-3 row">
-                <label for="want" class="col-sm-2 col-form-label">I want</label>
+                <label for="want" class="col-sm-2 col-form-label">I want to</label>
                 <div class="col-sm-10">
                     <input type="text" class="form-control" id="want" placeholder="<to perform an action>" maxlength="100">
                 </div>
